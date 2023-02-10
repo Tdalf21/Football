@@ -1,0 +1,7 @@
+﻿pandas
+numpy
+matplotlib
+seaborn
+Ipywidgets
+mljar-mercury
+HTML
